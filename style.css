@@ -28,7 +28,7 @@ html,body{
 .banner{
     width: 100%;
     height: 557px;
-    background-image: url(header_bg.png);
+    background-image: url(header.png);
     background-size: cover;
     background-position: center;
 }
