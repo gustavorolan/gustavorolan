@@ -3,7 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     max-width: 1360px;
-   
+    text-font:"open sans";
     
 }
 html,body{
@@ -106,7 +106,7 @@ html,body{
     background-color: rgba(33, 35,67,0.75);
     display: inline-block;
     width: 619px;
-    padding: 15px;
+    padding: 5px;
     position: relative;
     left: -850px;
     top: -350px;
